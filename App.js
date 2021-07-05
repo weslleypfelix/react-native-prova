@@ -2,7 +2,6 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native'
 import DefaultCards from './components/DefaultCards';
-import Dashboard from './components/Dashboard';
 import { createDrawerNavigator } from '@react-navigation/drawer'
 import PricingTables from './components/PricingTables';
 import ContentBlocks from './components/ContentBlocks';
