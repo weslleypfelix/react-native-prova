@@ -1,0 +1,13 @@
+1) Descreva com suas palavras os itens abaixo no contexto de desenvolvimento React Native.
+
+(2 pontos)
+
+a) Componente: Um componente é um bloco de código que colocamos dentro de um arquivo, para usarmos futuramente em uma ou mais partes do projeto. Tem o mesmo funcionamento de uma classe por exemplo, em que definimos uma rotina, ou alguma forma específica de funcionamento. E toda vez que chamamos esse componente em alguma parte do projeto, é como se estivéssemos criando um objeto desse componente. E cada chamada desse mesmo componente, é um "objeto" independente, em que podemos passar propriedades específicas, por exemplo.
+
+b) JSX: É a sintaxe do react native para criação de componentes. Se parece muito com HTML mas não é HTML, é uma forma de se escrever javascript e é a forma como será montado os nossos componentes.
+
+c) Método Render() : Em componentes de classe, o render() é um método obrigatório e é responsável para renderizar o conteúdo que passamos nas classes.
+
+d) Props: São as propriedades que passamos em um componente e que pode variar de chamada a chamada de componente. Por exemplo, se tivermos um componente botão, podemos ter uma props de cor. E na hora que formos chamá-lo, podemos chamar uma cor específica para cada chamada que quisermos.
+
+e) State: Os states são valores que são passados para os componentes e que são renderizados de maneira instantanea toda vez que o valor do state é alterado. Seu valor é alterável se o dev quiser. Por exemplo, ele é geralmente inicializado em um construtor e dps usamos o setState quando queremos mudá-lo, bem como aquele exercício que fizemos em que calculados os passos de alguem. 
